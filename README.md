@@ -1,51 +1,19 @@
-JavaScript Fundamentals
+Привіт! Я Юлія, починаючий спеціаліст у сфері IT, який зараз проживає в Польщі.
 
-Ласкаво просимо до мого репозиторію, де я документую своє навчання основам JavaScript. Тут я створюю міцну основу у фронтенд-розробці, зосереджуючи увагу на основних концепціях JavaScript і практичних навичках програмування.
+Я активно розвиваю свої навички фронтенд-розробки, зокрема вивчаю JavaScript, створюючи міцну основу в технологіях веб-розробки. Мій навчальний шлях включає роботу над практичними проєктами, вивчення алгоритмів та поглиблене освоєння таких тем, як React і інтеграція API.
 
-Поточний прогрес
+Я зосереджуюсь на професійному розвитку, присвячуючи час розширенню знань з основ JavaScript та об'єктно-орієнтованого програмування (ООП). Окрім фронтенду, я також вивчаю структури даних та алгоритми, щоб створювати ефективні та добре структуровані програми.
 
-План навчання:
-Я дотримуюсь самостійно розробленого плану навчання, починаючи з основ і переходячи до більш складних тем. Кожного тижня я фокусуюсь на новій концепції та створюю невеликі проекти для закріплення знань.
+Якщо ви хочете побачити мої досягнення та проєкти, я активно публікую їх на GitHub, де намагаюсь представити код зрозуміло і логічно, щоб продемонструвати, як я підходжу до вирішення проблем та розробки.
 
-Тема тижня:
-Тиждень 1: Функції, області видимості, замикання
-Виконані завдання: Counter, makeAdder, privateCounter.
-Тиждень 2: Массиви, об'єкти, колбеки.
-Тиждень 3: Асинхронний JavaScript, робота з API.
-Тиждень 4: Об'єктно-орієнтоване програмування (ООП), основи GitHub.
-Цей репозиторій структурований у різні папки для організації тем та відповідних проектів.
-
-Навички, які я здобуваю:
-
-Основні концепції JavaScript: Функції, області видимості, замикання, масиви, об'єкти, колбеки.
-Асинхронний JavaScript і робота з API.
-Принципи об'єктно-орієнтованого програмування.
-Використання Git і GitHub для контролю версій.
-Мета цього проекту — не лише вивчення, а й застосування концепцій у реальних ситуаціях, створюючи функціональні програми. Я продовжуватиму оновлювати цей репозиторій новими завданнями та рішеннями.
+Я підходжу до професійного розвитку з такою ж відданістю, як і до своїх інших захоплень, таких як велосипедні прогулянки 🚴‍♀️, фітнес 💪 та самовдосконалення. Вірю, що важливо підтримувати баланс між особистим життям і кар'єрними цілями, і готова до нових можливостей для застосування моїх навичок у світі технологій.
 
 ---
 
-JavaScript Fundamentals
+Hi! I’m Yulia, an aspiring IT specialist currently based in Poland. I’m on a journey to become a skilled front-end developer, with a focus on mastering JavaScript and building a strong foundation in web development technologies. My learning path involves working on hands-on projects, studying algorithms, and diving into more advanced topics like React and API integration.
 
-Welcome to my repository where I document my learning journey through JavaScript fundamentals. Here, I am building a solid foundation in front-end development, specifically focusing on core JavaScript concepts and practical coding skills.
+I’m committed to professional growth, dedicating time to continuously expand my knowledge in both JavaScript fundamentals and Object-Oriented Programming (OOP). Alongside front-end technologies, I’m also learning data structures and algorithms, aiming to build well-structured, efficient applications.
 
-Current Progress
+As I progress, I document my work on GitHub, sharing my projects and code with others. I strive to present my projects in a clear and understandable way, providing insights into how I approach problem-solving and development. I’m actively seeking new opportunities to apply my skills and grow in the tech field.
 
-Learning Path:
-I am progressing through a self-made study plan, starting with the basics and moving on to more advanced topics. Each week, I focus on a different concept and create small projects to strengthen my understanding.
-
-Weekly Focus:
-Week 1: Functions, Scope, Closures
-Completed tasks: Counter, makeAdder, privateCounter.
-Week 2: Arrays, Objects, Callbacks.
-Week 3: Asynchronous JavaScript, working with APIs.
-Week 4: Object-Oriented Programming (OOP), GitHub basics.
-This repository is structured into different folders to organize the topics and related projects.
-
-Skills I am acquiring:
-
-Core JavaScript concepts: Functions, Scope, Closures, Arrays, Objects, Callbacks.
-Asynchronous JavaScript and working with APIs.
-Object-Oriented Programming principles.
-Using Git and GitHub for version control.
-The goal of this project is not only to learn but also to apply the concepts in real-world scenarios by creating functional applications. As I continue to build projects, I will be updating this repository with new challenges and solutions.
+I bring the same level of dedication and discipline to my professional growth that I apply in other areas of my life, such as cycling 🚴‍♀️, fitness 💪, and continuous self-improvement. I believe in a balanced approach to personal and career development, and I’m eager to connect with others who share this mindset.
